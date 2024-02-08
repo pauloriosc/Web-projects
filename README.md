@@ -1,2 +1,2 @@
 # Web-projects
-Web projects that use (HTML / CSS / JS)
+Web projects with (HTML / CSS / JS)
